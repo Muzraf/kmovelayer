@@ -1,0 +1,28 @@
+{
+    
+    "name": "kmovelayer",
+    "displayName": "K Move Layer",
+    "description": "Copied from Gabriel(MIT License). Move or Select Layers Up or Down with shortcuts. DIFFERENT PARENT SUPPORT (LAYER): NIL.",
+    "version": "1",
+    "author": {
+        "name": "kloc",
+        "email": "mohamedmusharaf687@gmail.com"
+    },
+    "contributors": [ ],
+    "publisher": "kloc",
+    "license": "Public",
+    "categories": [ "Scripts" ,"Keys" ],
+    "contributes": {
+        "scripts": [
+            { 
+                "path": "./kmovelayer.lua" 
+            }
+        ],
+        "keys":[
+            {
+                "id":"kmovelayer",
+                "path": "./extension-keys.aseprite-keys"
+            }
+        ]
+    }
+}

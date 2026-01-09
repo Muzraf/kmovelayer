@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+  <commands>
+    <key command="kmovelayer-up" shortcut="Ctrl+Up" />
+    <key command="kmovelayer-down" shortcut="Ctrl+Down" />
+    <key command="kselectlayer-up" shortcut="Shift+Up" />
+    <key command="kselectlayer-down" shortcut="Shift+Down" />
+  </commands>
+</keyboard>
